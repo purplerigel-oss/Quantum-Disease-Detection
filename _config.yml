@@ -98,3 +98,6 @@ tools-archive:
 motivation-archive:
   type: liquid
   path: /motivation/
+goals-archive:
+  type: liquid
+  path: /goals/
