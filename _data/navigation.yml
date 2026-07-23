@@ -1,4 +1,8 @@
 main:
+  - title: "Background"
+
+  - title: "Motivation & Goals"
+  
   - title: "References"
     url: /tags/
   - title: "About"
