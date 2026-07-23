@@ -1,6 +1,6 @@
 ---
-title: "Posts by Category"
-layout: categories
-permalink: /categories/
-author_profile: true
+title: "Tools/Techniques that will be used in this Project"
+layout: single
+permalink: /tools/
+author_profile: false
 ---
