@@ -9,11 +9,4 @@ author_profile: false
 
 **A literature review explores the intersection between quantum computing and horticulture (specifically plant disease detection). In this paper, the usage of quantum computing and quantum machine learning will be discussed and assessed to determine the methods and the efficacy of this application.**
 
-## Background:
 
-
-## References
-
-
-
-## [A video on plant pathology that should give a good overview on the varieties of common plant diseases](https://youtu.be/tO81G3crbb4?si=0XvNIhjf61m3PllS)
