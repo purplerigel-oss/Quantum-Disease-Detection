@@ -86,9 +86,12 @@ defaults:
       layout: single
       author_profile: true
 
-category_archive:
+background-archive:
   type: liquid
-  path: /categories/
-reference_archive:
+  path: /background/
+reference-archive:
   type: liquid
   path: /reference/
+tools-archive:
+  type: liquid
+  path: /tools/
