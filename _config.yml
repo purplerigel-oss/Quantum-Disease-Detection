@@ -89,6 +89,6 @@ defaults:
 category_archive:
   type: liquid
   path: /categories/
-revference_archive:
+reference_archive:
   type: liquid
   path: /reference/
