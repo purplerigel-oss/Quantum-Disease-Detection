@@ -1,10 +1,10 @@
 main:
   - title: "Background"
-
+    url: /background/
   - title: "Motivation & Goals"
-
+    url: /motivation/
   - title: Tools/Techniques
-  
+    url: /tools/
   - title: "References"
     url: /tags/
   - title: "About"
