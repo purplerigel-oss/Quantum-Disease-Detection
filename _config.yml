@@ -95,3 +95,6 @@ reference-archive:
 tools-archive:
   type: liquid
   path: /tools/
+motivation-archive:
+  type: liquid
+  path: /motivation/
