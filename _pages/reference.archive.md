@@ -1,6 +1,6 @@
 ---
 title: "References"
-permalink: /tags/
-layout: tags
+permalink: /reference/
+layout: single
 author_profile: false
 ---
