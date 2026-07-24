@@ -11,7 +11,7 @@ Studies have already taken place that utilize this technology with a wide variet
 
 Currently researchers are using both quantum and classical systems to achieve these results. Classical computing is utilized to process data and optimize the entire system, while quantum parameterized circuits and gates are used to analyze the data. In one case, qubits are encoded with the brightness of the image pixels and processed through quantum gates (like the Hadamard gate and the CP gate) to ultimately filter out unnecessary information and reveal pertinent information.[^2] In other cases, sensory information about the environment is analyzed by quantum algorithms to determine chances for disease. [^3] Additionally, entanglement enables systems to understand interdependencies and complex or nonlinear correlations exhibited in the data which are difficult to classify with a classical view, making it easier for these systems to detect diseases when they occur. Overall, researchers have found that quantum algorithms allow for greater ease in analyzing diseases given a wide variety of data, understanding nonlinear relationships that can determine the behavior of pathogens, and even understanding diseases in crops overall using spectral signals.
 
-![Variational quantum algorithm (VQA) architecture with classical optimization](https://onlinelibrary.wiley.com/cms/asset/5096a5ae-5289-4c1b-b8e8-e1c317bf34a6/int9911441-fig-0007-m.jpg)
+example.png
 Example of a hybrid quantum-classical system that might be used
 
 [![Next](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpAMYI_Dl6lGoIbPM2UTkuf0GYQYEWJhorwEje6anPzw&s=10){:width="100px" height="100px"}](https://purplerigel-oss.github.io/Quantum-Disease-Detection/motivations/)
