@@ -7,7 +7,7 @@ author_profile: false
 
 ## [A video on plant pathology that should give a good overview on the varieties of common plant diseases](https://youtu.be/tO81G3crbb4?si=0XvNIhjf61m3PllS)
 
-## [Model example of a disease analysis program that has been created (though not specifically quantum)]([https://youtu.be/tO81G3crbb4?si=0XvNIhjf61m3PllS](https://youtu.be/iPovFOeXNoQ?si=Qg21hB71mVh8faAO))
+## [Model example of a disease analysis program that has been created (though not specifically quantum)](https://youtu.be/iPovFOeXNoQ?si=Qg21hB71mVh8faAO))
 
 ## References
 
