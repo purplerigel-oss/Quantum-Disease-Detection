@@ -11,11 +11,12 @@ Studies have already taken place that utilize this technology with a wide variet
 
 Currently researchers are using both quantum and classical systems to achieve these results. Classical computing is utilized to process data and optimize the entire system, while quantum parameterized circuits and gates are used to analyze the data. In one case, qubits are encoded with the brightness of the image pixels and processed through quantum gates (like the Hadamard gate and the CP gate) to ultimately filter out unnecessary information and reveal pertinent information.[^2] In other cases, sensory information about the environment is analyzed by quantum algorithms to determine chances for disease. [^3] Additionally, entanglement enables systems to understand interdependencies and complex or nonlinear correlations exhibited in the data which are difficult to classify with a classical view, making it easier for these systems to detect diseases when they occur. Overall, researchers have found that quantum algorithms allow for greater ease in analyzing diseases given a wide variety of data, understanding nonlinear relationships that can determine the behavior of pathogens, and even understanding diseases in crops overall using spectral signals.
 
-![Variational quantum algorithm (VQA) architecture with classical optimization](https://onlinelibrary.wiley.com/cms/asset/5096a5ae-5289-4c1b-b8e8-e1c317bf34a6/int9911441-fig-0007-m.jpg){:width="200px" height="200px"}
+![Variational quantum algorithm (VQA) architecture with classical optimization](https://onlinelibrary.wiley.com/cms/asset/5096a5ae-5289-4c1b-b8e8-e1c317bf34a6/int9911441-fig-0007-m.jpg)
 Example of a hybrid quantum-classical system that might be used
 
 [![Next](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpAMYI_Dl6lGoIbPM2UTkuf0GYQYEWJhorwEje6anPzw&s=10){:width="100px" height="100px"}](https://purplerigel-oss.github.io/Quantum-Disease-Detection/motivations/)
 
-[^1]:
-[^2]:
-[^3]:
+[^1]: Lakhani, S. (2025). Revolutionizing smart farming: Quantum computing applications in plant disease detection: A hybrid quantum-classical approach for sustainable agriculture. International Journal of Compututing Programming Database Management, 6(2), 191–231997. https://www.doi.org/10.33545/27076636.2025.v6.i2b.127 
+[^2]: Mukhamedieva1, D. T. & Sobirov, R. A. (2024). Application of quantum computing in image processing for recognition of infectious diseases of wheat. BIO Web of Conferences, 95(01003), 1–9. https://doi.org/10.1051/bioconf/20249501003 
+[^3]: Wu, Y., Nagy, A., Rajnai, Z., Fregan, B., & Takács- Györg, K. (2025). Quantum Machine Learning in Crop Disease Monitoring: Opportunities and Challenges to Practical Implementation. 2025 12th International Conference on Computational Cybernetics and Cyber-Medical System, 59–64. https://www.researchgate.net/profile/Yue-Wu-265/publication/391898833_Quantum_Machine_Learning_in_Crop_Disease_Monitoring_Opportunities_and_Challenges_to_Practical_Implementation/links/68e3c7ce220a341aa152facd/Quantum-Machine-Learning-in-Crop-Disease-Monitoring-Opportunities-and-Challenges-to-Practical-Implementation.pdf  
+
